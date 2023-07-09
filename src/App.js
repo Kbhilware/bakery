@@ -10,9 +10,11 @@ function App() {
   return (
     <AddToCartState>
       <BrowserRouter>
+        <Navbar siteName="Your Bakery"/> 
         <Routes>
-         <Route path='/' element={<Navbar siteName="Your Bakery" componentProduct={Product}/> } />
-         <Route path='/about' element={<Navbar siteName="Your Bakery" componentAbout={About} /> } />
+         <Route path="/" element={<Product />} />
+         <Route path="/about" element={<About />} />
+         {/* <Route path='/about' element={<Navbar siteName="Your Bakery" componentAbout={About} /> } /> */}
          
         </Routes>
         </BrowserRouter>
