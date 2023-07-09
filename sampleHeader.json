@@ -1,0 +1,24 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "header": [
+        {
+           
+            "thumb": "https://cdn.iconscout.com/icon/premium/png-512-thumb/bakery-64-201196.png?f=avif&w=512",
+            "title": "Products",
+            "description": "Lorem Ipsum is simply dummy text of the printing."
+        },
+        {
+           
+            "thumb": "https://cdn.iconscout.com/icon/premium/png-512-thumb/bakery-64-201196.png?f=avif&w=512",
+            "title": "Products",
+            "description": "Lorem Ipsum is simply dummy text of the printing."
+        },
+        {
+           
+            "thumb": "https://cdn.iconscout.com/icon/premium/png-512-thumb/bakery-64-201196.png?f=avif&w=512",
+            "title": "Products",
+            "description": "Lorem Ipsum is simply dummy text of the printing."
+        }
+    ]
+}
